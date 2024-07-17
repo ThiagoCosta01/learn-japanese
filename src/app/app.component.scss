@@ -1,0 +1,17 @@
+*{
+    height: 100%;
+}
+
+.main{
+    grid-template-rows: 100fr auto 1fr;
+    display: flexbox;
+    background-color: rgba(251, 250, 250, 0.608);
+}
+
+#footer{
+    align-items: end;
+    justify-content: end;
+    color: white;
+
+
+}
